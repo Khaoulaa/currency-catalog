@@ -1,0 +1,3 @@
+[submodule "currency-front"]
+	path = currency-front
+	url = ./src/main/resources/currency-front
